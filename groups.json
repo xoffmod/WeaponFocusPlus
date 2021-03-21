@@ -1,0 +1,102 @@
+﻿{
+    "Axes": [
+        "Battleaxe",
+        "DwarvenWaraxe",
+        "Greataxe",
+        "Handaxe",
+        "HeavyPick",
+        "LightPick",
+        "Tongi"
+    ],
+    "Heavy Blades": [
+        "BastardSword",
+        "DuelingSword",
+        "ElvenCurvedBlade",
+        "Estoc",
+        "Falcata",
+        "Falchion",
+        "Greatsword",
+        "Longsword",
+        "Scimitar",
+        "Scythe"
+    ],
+    "Light Blades": [
+        "Dagger",
+        "Kukri",
+        "Rapier",
+        "Shortsword",
+        "Sickle",
+        "Starknife"
+    ],
+    "Bows": [
+        "Longbow",
+        "OrcHornbow",
+        "Shortbow"
+    ],
+    "Crossbows": [
+        "HandCrossbow",
+        "HeavyCrossbow",
+        "HeavyRepeatingCrossbow",
+        "LightCrossbow",
+        "LightRepeatingCrossbow"
+    ],
+    "Double": [
+        "DoubleAxe",
+        "DoubleSword",
+        "HookedHammer",
+        "Urgrosh"
+    ],
+    "Flails & Hammers": [
+        "Club",
+        "EarthBreaker",
+        "Flail",
+        "Greatclub",
+        "HeavyFlail",
+        "HeavyMace",
+        "LightHammer",
+        "LightMace",
+        "Warhammer"
+    ],
+    "Polearms": [
+        "Bardiche",
+        "Fauchard",
+        "Glaive"
+    ],
+    "Spears": [
+        "Longspear",
+        "Shortspear",
+        "Spear",
+        "Trident"
+    ],
+    "Thrown": [
+        "Bomb",
+        "Dart",
+        "Javelin",
+        "Sling",
+        "SlingStaff",
+        "ThrowingAxe"
+    ],
+    "Close": [
+        "PunchingDagger",
+        "SpikedLightShield",
+        "SpikedHeavyShield",
+        "WeaponHeavyShield",
+        "WeaponLightShield"
+    ],
+    "Monk": [
+        "Kama",
+        "Nunchaku",
+        "Quarterstaff",
+        "Sai",
+        "Shuriken",
+        "Siangham",
+        "TempleSword"
+    ],
+    "Natural": [
+        "UnarmedStrike",
+        "Bite",
+        "Claw",
+        "Gore",
+        "OtherNaturalWeapons"
+    ]
+}
